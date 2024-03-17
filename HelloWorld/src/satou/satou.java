@@ -1,6 +1,5 @@
-package helloworld;
-
-public class HelloWorld {
+package satou;
+class satou{
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}

@@ -8,5 +8,5 @@ public class HelloWorld {
 * @param args 実行引数
 */
 public static void main(String[] args) {
-System.out.println("Hello World!"); }
+System.out.println("javaを始めます。"); }
 }
