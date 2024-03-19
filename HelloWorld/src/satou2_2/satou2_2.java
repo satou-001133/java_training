@@ -5,5 +5,4 @@ class satou2_2{
 		String world = "Wolrd";
 		System.out.println(hello + "," + world);
 	}
-}	
-	
+}
