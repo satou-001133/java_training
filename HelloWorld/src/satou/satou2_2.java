@@ -1,4 +1,4 @@
-package satou2_2;
+package satou;
 class satou2_2{
 	public static void main(String[] args) {
 		String hello = "Hello";

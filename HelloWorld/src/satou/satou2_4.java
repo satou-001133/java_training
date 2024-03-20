@@ -1,4 +1,4 @@
-package satou2_4;
+package satou;
 class satou2_4
 {
 	public static void main(String[] args){
