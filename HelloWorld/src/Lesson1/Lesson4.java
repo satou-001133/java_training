@@ -1,5 +1,5 @@
-package satou;
-class satou2_4
+package Lesson1;
+class Lesson4
 {
 	public static void main(String[] args){
 		int X;
