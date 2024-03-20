@@ -1,5 +1,5 @@
-package satou;
-class satou{
+package Lesson1;
+class Lesson1{
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}
