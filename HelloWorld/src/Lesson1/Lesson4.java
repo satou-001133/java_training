@@ -1,5 +1,7 @@
 package Lesson1;
-
+/**
+ * 実力確認問題　2．演算子
+ **/
 class Lesson4{
 	public static void main(String[] args){
 		int x = 7;
