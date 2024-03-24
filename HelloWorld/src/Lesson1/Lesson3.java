@@ -17,6 +17,5 @@ class Lesson3{
         y = temp;
 
         System.out.println("xとyを入れ替えると、xの値は" + x + "、yの値は" + y + "になります。");
-        System.out.println("xとyを足すと" + a + "になります。");
     }
 }
